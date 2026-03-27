@@ -115,7 +115,7 @@ Consider adding a `.gitignore` entry for any local `.env` files:
 .env
 *.env
 ```
-
+DOES NOT FULLY WORK YET 
 ---
 
 ## License
